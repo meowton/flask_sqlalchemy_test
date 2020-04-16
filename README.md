@@ -1,2 +1,2 @@
-# flask_sqlalchemy_test
+# Flask SQLalchemy test
 Teste de integração API RESTful com Flask e SQLalchemy.
